@@ -1,0 +1,19 @@
+ITC 2400 — Chez Fur First HTML Assignment
+
+Included:
+- index.html: homepage following Figure 1 in the assignment
+- template.html: reusable structural HTML template
+
+YOU MUST COMPLETE THESE STEPS FOR THE FULL RUBRIC:
+1. Open index.html and review it in your browser.
+2. Visit https://validator.w3.org/#validate_by_upload and upload index.html.
+   Resolve any warnings/errors; take a REAL screenshot of the validation result.
+3. Add the validation screenshot to this folder and ZIP the folder again.
+4. Create a public GitHub repository, upload index.html to the repository root,
+   then enable GitHub Pages (Settings > Pages > Deploy from a branch > main /root).
+5. Wait for the public site to appear and test its URL in a private browser window.
+6. Submit the updated ZIP in Canvas and include BOTH the GitHub repository URL
+   and the live GitHub Pages URL in the Canvas submission comments.
+
+No validation screenshot or GitHub publication is included in this ZIP because
+those steps require actual validation and your GitHub account.
